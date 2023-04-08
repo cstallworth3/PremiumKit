@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w { background-image: url(https://media.istockphoto.com/id/147014239/photo/yellow-siren.jpg?s=612x612&w=0&k=20&c=1FhYePrxkvzLpQq_Z-cJLr_fJocKNdysml_BvXBavUg=);
+    background-position: center; margin-bottom: 10px;
+}
+.a{
+  background-image: url(images/kick.png);
+}
+
+.s {
+  background-image: url(images/snare.png);
+}
+
+.d {
+background-image: url(https://www.drumcenternh.com/media/catalog/product/cache/27cd97049d15d2d8fd7d6ae0f3616203/t/u/turkish_clap3-classic.jpg);
+background-position: center;
+}
+
+.j {
+background-image: url(https://media.istockphoto.com/id/1328191222/vector/hihat-cymbal-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=mXSG4yeYp6PHy9qyyC1-UIcmUTxuR6gLkXEOQuUQi-8=);
+background-position: center;
+}
+
+.k {
+background-image: url(https://www.shutterstock.com/image-vector/vector-illustration-classical-drum-crossed-260nw-1687895656.jpg);
+background-position: center;
+}
+
+.l {
+background-image: url(https://thumbs.dreamstime.com/b/drum-instrument-musical-icon-vector-illustration-design-81423736.jpg);
+background-position: center;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
